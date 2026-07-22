@@ -6,6 +6,6 @@
 4. Click **Run Script**.
 
 Preview:
-https://sketchfab.com/3d-models/backrooms-maze-generator-script-d0568f44ccef44dbb9778211a1c4229f
+https://skfb.ly/pLYqQ
 
 <img width="1533" height="789" alt="image" src="https://github.com/user-attachments/assets/0c5717e7-aa1f-434b-aa05-55507868eba5" />
