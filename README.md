@@ -1,7 +1,3 @@
-# Backrooms Maze Generator
-
-Procedurally generate Backrooms-style mazes directly in Blender
-
 # Usage
 
 1. Open **Blender → Scripting**.
